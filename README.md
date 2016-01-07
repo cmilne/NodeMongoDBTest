@@ -1,2 +1,2 @@
-# NodeMongoDBTest
-Doing the tutorial from http://blog.modulus.io/mongodb-tutorial
+# MEANWebDev
+Doing the tutorial MEAN Web Development by Amos Q. Haviv
